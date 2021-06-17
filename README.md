@@ -1,3 +1,10 @@
+---
+title: "The Beginning"
+description: "How this Blog came to the light"
+date: 2020-11-01
+tags: General, Welcome, From the docs, Author
+url: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-4.jpg"
+---
 # The Beginning
 Over many years, I have been thinking to start my own blog, but as most of us always feel we have something on higher priority may it be work or personal.
 
